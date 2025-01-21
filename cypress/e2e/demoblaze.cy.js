@@ -9,7 +9,7 @@ import {
     completeOrder,
   } from "../helpers/ecommerceHelpers";
   
-  // Define constants to keep the test data consistent and organized
+  // Defining constants to keep the test data consistent and organized
   const PRODUCT_NAME = "Samsung galaxy s6"; // Product to be searched and added to the cart
   const ORDER_DETAILS = {
     name: "Moropa Lehlogonolo", // Customer's name for checkout form

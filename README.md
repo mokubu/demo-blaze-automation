@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project automates the end-to-end testing of the e-commerce checkout process on the Demo Blaze website using **Cypress**. It validates critical functionalities like searching for a product, adding it to the cart, and completing the checkout process.
+The following project automates the end-to-end testing of the e-commerce checkout process on the Demo Blaze website using **Cypress**. It validates critical functionalities like searching for a product, adding it to the cart, and completing the checkout process.
 
 The solution follows **best practices** for test automation, including a modular design, the Page Object Model (POM), and reusable helper functions for scalability and maintainability.
 
